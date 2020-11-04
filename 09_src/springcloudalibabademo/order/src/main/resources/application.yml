@@ -1,0 +1,10 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: order
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: Haso-soft.com88
+    url: jdbc:mysql://192.168.1.38:3306/order
